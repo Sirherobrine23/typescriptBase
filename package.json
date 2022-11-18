@@ -1,21 +1,21 @@
 {
-  "name": "base_typescript",
+  "name": "typescript-base",
   "version": "1.0.0",
   "description": "Replace",
   "main": "src/index.js",
   "types": "./src/index.d.ts",
   "private": false,
   "type": "commonjs",
-  "homepage": "https://github.com/Sirherobrine23/base_typescript#readme",
+  "homepage": "https://github.com/Sirherobrine23/typescriptBase#readme",
   "author": "Matheus Sampaio Queiroga <srherobrine20@gmail.com> (https://sirherobrine23.org/)",
-  "license": "GPL-2.0-only",
+  "license": "GPL-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sirherobrine23/base_typescript.git"
+    "url": "git+https://github.com/Sirherobrine23/typescriptBase.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Sirherobrine23/base_typescript/issues"
+    "url": "https://github.com/Sirherobrine23/typescriptBase/issues"
   },
   "sponsor": {
     "url": "https://github.com/sponsors/Sirherobrine23"
